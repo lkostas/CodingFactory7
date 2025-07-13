@@ -1,0 +1,14 @@
+/Users/konstantinosliapis/RiderProjects/CodingFactory7/GradesApp/bin/Debug/net8.0/GradesApp
+/Users/konstantinosliapis/RiderProjects/CodingFactory7/GradesApp/bin/Debug/net8.0/GradesApp.deps.json
+/Users/konstantinosliapis/RiderProjects/CodingFactory7/GradesApp/bin/Debug/net8.0/GradesApp.runtimeconfig.json
+/Users/konstantinosliapis/RiderProjects/CodingFactory7/GradesApp/bin/Debug/net8.0/GradesApp.dll
+/Users/konstantinosliapis/RiderProjects/CodingFactory7/GradesApp/bin/Debug/net8.0/GradesApp.pdb
+/Users/konstantinosliapis/RiderProjects/CodingFactory7/GradesApp/obj/Debug/net8.0/GradesApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/konstantinosliapis/RiderProjects/CodingFactory7/GradesApp/obj/Debug/net8.0/GradesApp.AssemblyInfoInputs.cache
+/Users/konstantinosliapis/RiderProjects/CodingFactory7/GradesApp/obj/Debug/net8.0/GradesApp.AssemblyInfo.cs
+/Users/konstantinosliapis/RiderProjects/CodingFactory7/GradesApp/obj/Debug/net8.0/GradesApp.csproj.CoreCompileInputs.cache
+/Users/konstantinosliapis/RiderProjects/CodingFactory7/GradesApp/obj/Debug/net8.0/GradesApp.dll
+/Users/konstantinosliapis/RiderProjects/CodingFactory7/GradesApp/obj/Debug/net8.0/refint/GradesApp.dll
+/Users/konstantinosliapis/RiderProjects/CodingFactory7/GradesApp/obj/Debug/net8.0/GradesApp.pdb
+/Users/konstantinosliapis/RiderProjects/CodingFactory7/GradesApp/obj/Debug/net8.0/GradesApp.genruntimeconfig.cache
+/Users/konstantinosliapis/RiderProjects/CodingFactory7/GradesApp/obj/Debug/net8.0/ref/GradesApp.dll
